@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The content of the website itself is licensed under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license (Copyright 2025-present Thomas Gruebl),
   and the underlying source code used to format and display that content is licensed under the MIT license (Copyright 2016-present Parker Moore).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "thomasgruebl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thomasgruebl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thomasgruebl
 
 # Build settings

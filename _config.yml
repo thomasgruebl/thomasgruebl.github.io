@@ -33,6 +33,8 @@ plugins:
   - jekyll-feed
 
 
+show_excerpts: true
+
 sass:
   style: compressed
 

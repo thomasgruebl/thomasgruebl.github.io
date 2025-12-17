@@ -28,6 +28,11 @@ p {
     margin: 0;
 }
 
+.post-list li {
+    margin-top: 0.5rem;
+    text-align: justify;
+}
+
 a:hover {
     color: #949494;
     text-decoration: none;
@@ -78,6 +83,12 @@ a:hover {
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+  }
+
+  .post-list li {
+    margin-top: 0.5rem;
+    color: #949494;
+    text-align: justify;
   }
 
   .post-meta time,

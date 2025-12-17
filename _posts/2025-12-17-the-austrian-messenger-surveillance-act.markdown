@@ -3,6 +3,7 @@ layout: post
 title:  "The Austrian Messenger Surveillance Act"
 date:   2025-12-17 23:18:00 +0100
 categories: posts
+excerpt: Recently, the Austrian government passed the Messenger Surveillance Act <span class="bibliography_nums">[1]</span>, a law that allows the country's domestic intelligence service to monitor digital communications in order to prevent terrorism and espionage... <a href="https://thomasgruebl.github.io/posts/2025/12/17/the-austrian-messenger-surveillance-act.html">[continue reading]</a>
 ---
 
 

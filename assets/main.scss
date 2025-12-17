@@ -12,6 +12,10 @@ p {
     text-align: justify;
 }
 
+.bibliography_nums {
+    color: #1756a9;
+}
+
 .post-meta {
     display: flex;
     align-items: center;
@@ -61,7 +65,11 @@ a:hover {
     background-color: #181818;
   }
 
-  h3 {
+  h3, h4, h5 {
+    color: #55a9d2;
+  }
+
+  .bibliography_nums {
     color: #55a9d2;
   }
 

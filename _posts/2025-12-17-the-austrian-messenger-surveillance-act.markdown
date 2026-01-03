@@ -129,7 +129,7 @@ Do not use WhatsApp, Telegram, SMS or Email. In addition, disable FaceTime and i
 </p>
 
 
-<h3> Bibliography </h3>
+<h3> References </h3>
 <p>
 
 <span class="bibliography_nums">[1]</span>	Parlamentsdirektion and Nationalrat. "Messenger-Überwachung nimmt letzte parlamentarische Hürde." <a href="https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0718">https://www.parlament.gv.at/aktuelles/pk/jahr_2025/pk0718</a> (accessed December 07, 2025).<br><br>

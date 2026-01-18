@@ -12,6 +12,12 @@ p {
     text-align: justify;
 }
 
+figcaption {
+    margin-top: 1.5em;
+    text-align: center;
+    font-size: inherit;
+}
+
 .bibliography_nums {
     color: #1756a9;
 }
@@ -133,9 +139,16 @@ a:hover {
     text-decoration: none;
   }
 
-  p {
+  p, li {
     color: #949494;
     text-align: justify;
+  }
+
+  figcaption {
+    color: #949494;
+    margin-top: 1.5em;
+    text-align: center;
+    font-size: inherit;
   }
 
   header, footer {
@@ -174,7 +187,7 @@ a:hover {
     color: #55a9d2;
   }
 
-  a:visited {
+  a, a:visited {
     color: #55a9d2;
   }
 

@@ -121,7 +121,7 @@ Using a different OS has, amongst other things, the advantage that no ecosystem-
 
 <p>
 If you have an iPhone, turn on Lockdown Mode. On Android devices, turn on Google's Advanced Protection. In some instances <span class="bibliography_nums">[11, 12, 13]</span>, Lockdown Mode has been proven to prevent certain spyware infections by the NSO group.
-Use Signal as the only messaging app. Make sure to choose a Signal username that cannot be linked back to your name and in the Signal Settings under <i>Privacy->Phone Number</i> check <i>“Nobody”</i> under <i>“Who Can See My Number”</i> and <i>“Who Can Find Me By Number”</i>. This prevents people, who don't know your username to send messages to your Signal account using your phone number. Also, in <i>Settings->Chats</i> turn off <i>“Generate Link Previews”</i>.
+Use Signal as the only messaging app. Make sure to choose a Signal username that cannot be linked back to your name and in the Signal Settings under <i>Privacy->Phone Number</i> check <i>“Nobody”</i> under <i>“Who Can See My Number”</i> and <i>“Who Can Find Me By Number”</i>. This prevents people, who don't know your username to send messages to your Signal account using your phone number.
 </p>
 
 <p>

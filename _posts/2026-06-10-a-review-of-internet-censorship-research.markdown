@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Review of Internet Censorship Research"
-date:   2026-06-10 19:02:00 +0100
+date:   2026-06-10 18:02:00 +0100
 categories: posts
 excerpt: As Internet censorship continues to be deployed across a number of nation-states, understanding its scope and underlying mechanisms is more important than ever. Consequently, research on censorship measurement and circumvention has attracted growing academic interest, particularly in ... <a href="https://thomasgruebl.github.io/posts/2026/06/10/a-review-of-internet-censorship-research.html">[continue reading]</a>
 ---

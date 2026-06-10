@@ -3,7 +3,7 @@ layout: post
 title:  "A Review of Internet Censorship Research"
 date:   2026-06-10 18:02:00 +0100
 categories: posts
-excerpt: As Internet censorship continues to be deployed across a number of nation-states, understanding its scope and underlying mechanisms is more important than ever. Consequently, research on censorship measurement and circumvention has attracted growing academic interest, particularly in ... <a href="https://thomasgruebl.github.io/posts/2026/06/10/a-review-of-internet-censorship-research.html">[continue reading]</a>
+excerpt: As Internet censorship continues to be deployed across a number of nation-states, understanding its scope and underlying mechanisms is more important than ever. Consequently, research on censorship measurement and circumvention has attracted growing academic interest, particularly in... <a href="https://thomasgruebl.github.io/posts/2026/06/10/a-review-of-internet-censorship-research.html">[continue reading]</a>
 ---
 
 
@@ -11,7 +11,7 @@ excerpt: As Internet censorship continues to be deployed across a number of nati
 <h3> Abstract </h3>
 
 <p>
-As Internet censorship continues to be deployed across a number of nation-states, understanding its scope and underlying mechanisms is more important than ever. Consequently, research on censorship measurement and circumvention has attracted growing academic interest, particularly in recent years. This article provides an overview of the current state of the art in the field of Internet censorship measurement and circumvention research. First, a brief overview of the fundamentals is provided, followed by an in-depth analysis of 146 con temporary Internet censorship measurement and circumvention studies, predominantly those published within the last ten years, by applying a semi-systematic literature review methodology. Subsequently, the review briefly summarizes the ethical considerations in the field, it visualizes the geographical focus of censorship measurement studies, and it provides an overview of Internet protocols used to measure censorship. In addition, it presents a taxonomy of censorship circumvention tools, analyzes their key characteristics, and examines the prevalence of the underlying network protocols used in circumvention tools. The findings suggest that, while there are numerous solutions for circumventing censorship, many are niche or theoretical, and their practicality remains unknown. Although there is an observable trend toward large-scale longitudinal censorship measurement studies, the real-world effectiveness of (academic) censorship circumvention methods is rarely evaluated. Since both censorship measurement and circumvention research go hand-in-hand, there is an increasing number of measurement studies which directly translate their findings into practical circumvention strategies.
+As Internet censorship continues to be deployed across a number of nation-states, understanding its scope and underlying mechanisms is more important than ever. Consequently, research on censorship measurement and circumvention has attracted growing academic interest, particularly in recent years. This article provides an overview of the current state of the art in the field of Internet censorship measurement and circumvention research. First, a brief overview of the fundamentals is provided, followed by an in-depth analysis of 146 contemporary Internet censorship measurement and circumvention studies, predominantly those published within the last ten years, by applying a semi-systematic literature review methodology. Subsequently, the review briefly summarizes the ethical considerations in the field, it visualizes the geographical focus of censorship measurement studies, and it provides an overview of Internet protocols used to measure censorship. In addition, it presents a taxonomy of censorship circumvention tools, analyzes their key characteristics, and examines the prevalence of the underlying network protocols used in circumvention tools. The findings suggest that, while there are numerous solutions for circumventing censorship, many are niche or theoretical, and their practicality remains unknown. Although there is an observable trend toward large-scale longitudinal censorship measurement studies, the real-world effectiveness of (academic) censorship circumvention methods is rarely evaluated. Since both censorship measurement and circumvention research go hand-in-hand, there is an increasing number of measurement studies which directly translate their findings into practical circumvention strategies.
 </p>
 
 <h3>Chapter 1: Introduction</h3>
@@ -53,14 +53,22 @@ Fundamentally, research on Internet censorship can be grouped into offensive and
 
 This paper makes the following contributions:
 
-&check; A classification and synthesis of Internet censorship measurement studies, encompassing the considered network protocols, countries, study durations, and a summary of the methods and results.
+<ul>
+    <li>A classification and synthesis of Internet censorship measurement studies, encompassing the considered network protocols, countries, study durations, and a summary of the methods and results.</li>
+    <li>A classification and synthesis of Internet censorship circumvention studies, focusing on the used network protocols, the throughput, evaluation strategies, application-agnosticism, and tool-specific features.</li>
+    <li>A taxonomy of Internet censorship circumvention methods, identifying and reviewing the two primary categories: routing-based and obfuscation-based techniques.</li>
+    <li>An analysis of the geographic focus of censorship measurement studies from the past decade, as well as a visualization of the key technical attributes of circumvention methods, including support for bootstrapping, operational readiness, and application agnosticism.</li>
+</ul>
 
-&check; A classification and synthesis of Internet censorship circumvention studies, focusing on the used network protocols, the throughput, evaluation strategies, application-agnosticism, and tool-specific features.
+The following Figures 1 and 2 illustrate the geographical focus of Internet censorship measurement studies and a taxonomy of Internet censorship circumvention techniques between 2015 and 2025. 
 
-&check; A taxonomy of Internet censorship circumvention methods, identifying and reviewing the two primary categories: routing-based and obfuscation-based techniques.
+<br><br>
 
-&check; An analysis of the geographic focus of censorship measurement studies from the past decade, as well as a visualization of the key technical attributes of circumvention methods, including support for bootstrapping, operational readiness, and application agnosticism.
+<div style="text-align: center;">
+<b><a href="https://www.sciencedirect.com/science/article/pii/S1574013726001103/pdfft?md5=1084c5c2ad87a52b9ebb5b630fe5c37b&pid=1-s2.0-S1574013726001103-main.pdf">The remainder of the article can be found here.</a></b>
+</div>
 
+<br><br>
 
 <div style="text-align: center;">
     <figure style="text-align: center;">
@@ -94,11 +102,6 @@ This paper makes the following contributions:
     </figure>
 </div>
 
-
-
-
-
-<h3>Chapter 3: Conclusion</h3>
 
 
 
